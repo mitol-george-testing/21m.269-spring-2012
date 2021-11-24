@@ -1,0 +1,35 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "23def793-7f25-511d-c893-bf84e3cf31dc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Studies in Western Music History: Quantitative and Computational Approaches to Music History",
+  "course_description": "The disciplines of music history and music theory have been slow to embrace the digital revolutions that have transformed other fields' text-based scholarship (history and literature in particular). Computational musicology opens the door to the possibility of understanding\u2014even if at a broad level\u2014trends and norms of behavior of large repertories of music. This class presents the major approaches, results, and challenges of computational musicology through readings in the field, gaining familiarity with datasets, and hands on workshops and assignments on data analysis and \"corpus\" (i.e., repertory) studies. Class sessions alternate between discussion/lecture and labs on digital tools for studying music. A background in music theory and/or history is required, and experience in computer programming will be extremely helpful. Coursework culminates in an independent research project in quantitative or computational musicology that will be presented to the class as a whole.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.269",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples",
+    "Written Assignments with Examples",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
